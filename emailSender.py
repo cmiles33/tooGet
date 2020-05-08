@@ -120,7 +120,7 @@ def payloadResponse(reciever):
 def automaticResponse2(reciever):
     sender_email = 'cmiles33nrs@gmail.com'
     receiver_email = reciever
-    password = "Caleb1010!"
+    password = ""
 
     message = MIMEMultipart("alternative")
     message["Subject"] = "TESTING SYSTEM"
